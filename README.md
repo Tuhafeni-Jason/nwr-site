@@ -12,7 +12,7 @@ A full-stack hotel/resort booking management system with advanced cybersecurity 
 ### 1. Clone & Setup
 
 ```bash
-git clone <repository-url>
+git clone "https://github.com/Tuhafeni-Jason/nwr-site.git"
 cd nwr-secure-booking
 ```
 
